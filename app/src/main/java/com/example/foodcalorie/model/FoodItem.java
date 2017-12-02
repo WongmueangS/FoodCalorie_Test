@@ -1,9 +1,5 @@
 package com.example.foodcalorie.model;
 
-/**
- * Created by ADMIN on 29/11/2560.
- */
-
 public class FoodItem {
     //final class อื่นอ่านได้อย่งเดียว แก้ไขมาจากข้างนอกไมไ่ได้
     public final int id;
